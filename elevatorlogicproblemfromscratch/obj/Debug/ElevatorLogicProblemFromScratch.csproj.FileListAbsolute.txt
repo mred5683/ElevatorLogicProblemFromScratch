@@ -1,0 +1,6 @@
+C:\Programming\C# Programs\Personal\ElevatorLogicProblemFromScratch\ElevatorLogicProblemFromScratch\bin\Debug\ElevatorLogicProblemFromScratch.exe.config
+C:\Programming\C# Programs\Personal\ElevatorLogicProblemFromScratch\ElevatorLogicProblemFromScratch\bin\Debug\ElevatorLogicProblemFromScratch.exe
+C:\Programming\C# Programs\Personal\ElevatorLogicProblemFromScratch\ElevatorLogicProblemFromScratch\bin\Debug\ElevatorLogicProblemFromScratch.pdb
+C:\Programming\C# Programs\Personal\ElevatorLogicProblemFromScratch\ElevatorLogicProblemFromScratch\obj\Debug\ElevatorLogicProblemFromScratch.csprojResolveAssemblyReference.cache
+C:\Programming\C# Programs\Personal\ElevatorLogicProblemFromScratch\ElevatorLogicProblemFromScratch\obj\Debug\ElevatorLogicProblemFromScratch.exe
+C:\Programming\C# Programs\Personal\ElevatorLogicProblemFromScratch\ElevatorLogicProblemFromScratch\obj\Debug\ElevatorLogicProblemFromScratch.pdb
